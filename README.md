@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danobrien2023
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently teaching Java
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me dto257@email.vccs.edu
 
